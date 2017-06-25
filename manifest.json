@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Kbtron",
+  "name": "UnikronD",
   "version": "1.0",
 
   "permissions": [
@@ -15,7 +15,7 @@
   },
 
   "browser_action": {
-    "default_title": "Kbtron"
+    "default_title": "UnikronD"
   }
 
 }
